@@ -1,0 +1,1 @@
+{"rustc":8291033049748019918,"features":"[]","target":3097007195110106240,"profile":731176819336294830,"deps":[["rand v0.3.20",7738808656634076995]],"local":[{"MtimeBased":[[1515540134,829615172],"/Users/natalievillasana/github/practice/intro-rust/guessing_game/target/debug/.fingerprint/guessing_game-aeeaa02241c3fb00/dep-bin-guessing_game-aeeaa02241c3fb00"]}],"rustflags":[]}
