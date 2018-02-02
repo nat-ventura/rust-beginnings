@@ -1,0 +1,6 @@
+[package]
+name = "return_scope"
+version = "0.1.0"
+authors = ["natalievillasana <nat@storj.io>"]
+
+[dependencies]
