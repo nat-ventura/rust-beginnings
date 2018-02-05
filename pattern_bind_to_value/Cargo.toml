@@ -1,0 +1,6 @@
+[package]
+name = "pattern_bind_to_value"
+version = "0.1.0"
+authors = ["natalievillasana <nat@storj.io>"]
+
+[dependencies]
