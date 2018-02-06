@@ -1,0 +1,6 @@
+[package]
+name = "collect_into_hashmap"
+version = "0.1.0"
+authors = ["natalievillasana <nat@storj.io>"]
+
+[dependencies]
