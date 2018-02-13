@@ -1,0 +1,6 @@
+[package]
+name = "condit_methods_trait_bounds"
+version = "0.1.0"
+authors = ["natalievillasana <nat@storj.io>"]
+
+[dependencies]
