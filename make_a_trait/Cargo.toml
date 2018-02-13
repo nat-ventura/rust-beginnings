@@ -1,0 +1,6 @@
+[package]
+name = "make_a_trait"
+version = "0.1.0"
+authors = ["natalievillasana <nat@storj.io>"]
+
+[dependencies]
